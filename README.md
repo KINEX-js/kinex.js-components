@@ -27,7 +27,7 @@ KINEX.js components can be integrated directly into an HTML document using their
 
 ```html
 <!-- Include the required KINEX.js component -->
-<script src="YOUR_CDN_COMPONENT_URL"></script>
+<script src="https://cdn.jsdelivr.net/gh/KINEX-js/kinex.js-components@main/kinex.js"></script>
 ```
 
 Add the component's required HTML and CSS to your project as specified in its documentation.
